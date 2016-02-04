@@ -1,0 +1,23 @@
+{
+    "name": "undefinedstudio/yii2-model",
+    "description": "Advanced model extension for the Yii framework",
+    "keywords": ["yii2", "model"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/undefinedstudio/yii2-model/issues",
+        "source": "https://github.com/undefinedstudio/yii2-model"
+    },
+    "authors": [
+        {
+            "name": "Gabriele Della Casa Venturelli",
+            "email": "hardsetting@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.x-dev"
+    },
+    "autoload": {
+        "psr-4": { "undefinedstudio\\yii2\\model\\": "" }
+    }
+}
